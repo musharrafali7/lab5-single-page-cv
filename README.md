@@ -79,3 +79,5 @@ Hospital Management System (DSA) | C++: Architected priority queues for critical
 Leadership & QA:
 
 Academic Team Lead & QA Tester: Led multi-member student teams, structured task allocation, and served as primary debugger/QA tester to resolve runtime edge cases.
+
+3. need you to edit the nav bar, its breaking when i make the web browers resolution small, all jumbles up
